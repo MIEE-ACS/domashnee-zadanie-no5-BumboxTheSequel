@@ -15,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace DZ5_Makogon_UTS_21
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
+    /// VARIANT 8
     public partial class MainWindow : Window
     {
         public MainWindow()
